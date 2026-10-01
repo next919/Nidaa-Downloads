@@ -4,6 +4,8 @@
 
 **صفحة البرنامج:** https://gradifysa.com/nidaa/
 
+> 🔒 **حمّل نداء من صفحته الرسمية أو من هذا المستودع فقط.** أي نسخة منشورة في موقع آخر أو مرسلة في مجموعات قد تكون معدّلة وتحتوي على برامج ضارة.
+
 ## التحميل
 حمّل آخر إصدار من قسم **[Releases](https://github.com/next919/Nidaa-Downloads/releases/latest)**، أو مباشرة:
 https://github.com/next919/Nidaa-Downloads/releases/latest/download/Nidaa-Setup.zip
